@@ -7,9 +7,12 @@ Cool Collaborator The First, Washingon University School of Medicine, St. Louis,
 This is a test.
 - this is too
 - this is three
+- 
 This is *one star* and this is _underscore_ and this is **two stars** and this is ***three stars***.
+
 ##Introduction
 	Trenchant quote goes here.
+	
 ###Background
 Once upon a time there was stuff. Then it was no good.
 
